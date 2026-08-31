@@ -1,0 +1,4 @@
+[package]
+name = "nano_f1e2"
+version = "0.1.0"
+edition = "2021"
